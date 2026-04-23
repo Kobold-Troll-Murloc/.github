@@ -7,7 +7,7 @@
 
 ## 👥 Meet Our Team
 
-| <img src="./Picture/LSM.png" width="200" height="200"> | <img src="./Picture/JGN.jpg" width="200" height="200"> | <img src="./Picture/HSH.jpg" width="200" height="200"> |
+| <img src="./Picture/LSM.png" width="200" height="300"> | <img src="./Picture/JGN.jpg" width="200" height="300"> | <img src="./Picture/HSH.jpg" width="200" height="300"> |
 | :---: | :---: | :---: |
 | **LSM (이수민)** | **JGN (정근녕)** | **HSH (한승현)** |
 | **Engine Architect & Rendering** | **Engine Architect & Rendering** | **Physics & AI Specialist** |
