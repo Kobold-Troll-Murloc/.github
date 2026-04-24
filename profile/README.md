@@ -51,7 +51,7 @@
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 우리의 연구 과정이나 기술 스택에 대해 더 궁금한 점이 있다면 메인 저장소를 방문해 주세요.
 
-[👉 P.R.I.S.M 메인 저장소 바로가기](https://github.com/Kobold-Troll-Murloc/PRISM)
+[P.R.I.S.M 메인 저장소 바로가기](https://github.com/Kobold-Troll-Murloc/PRISM)
