@@ -1,11 +1,11 @@
-# Hello, We are Team P.R.I.S.M! 👋
+# We are Team P.R.I.S.M!
 
 우리는 **Team P.R.I.S.M**입니다.  
 건국대학교 드림학기제(2026/1학기)를 통해 **고성능 실시간 물리 시뮬레이션 엔진**를 연구하고 개발합니다.
 
 ---
 
-## 👥 Meet Our Team
+## Meet Our Team
 
 | <img src="./Picture/LSM.png" width="200" height="300"> | <img src="./Picture/JGN.jpg" width="200" height="300"> | <img src="./Picture/HSH.jpg" width="200" height="300"> |
 | :---: | :---: | :---: |
@@ -13,10 +13,11 @@
 | **Engine Architect & Rendering** | **Engine Architect & Rendering** | **Physics & AI Specialist** |
 | *Core Architecture & Ray Tracing* | *Core Architecture & Ray Tracing* | *Softbody & Physics Simulation* |
 | 상용 엔진 아키텍처 분석 및<br>렌더링 알고리즘 연구 개발 | 엔진 아키텍처 설계 및<br>하이브리드 렌더링 파이프라인 설계 | 물리 시뮬레이션 로직 구현 및<br>Physics 시뮬레이션 설계 |
+| https://github.com/nunsori | https://github.com/Kkackit02 | https://github.com/asbbicsar |
 
 ---
 
-## 🌈 Project: P.R.I.S.M
+## Project: P.R.I.S.M
 
 **Physics Ray-tracing Interactive Softbody-simulation Module**
 
@@ -30,7 +31,7 @@
 
 ---
 
-## 🛠 Tech Stack & Focus
+## Tech Stack & Focus
 - **Language**: Modern C++ (C++17/20), Python (for AI Trainin, Other Tools)
 - **Graphics Engine**: Initially explored [OgreNext](https://github.com/OGRE-Next/ogre-next) (Core Architecture Analysis & Customization), then transitioned to a **Custom In-house Engine(Raw Vulkan).**
 - **Graphics API**: Vulkan 1.3, HLMS, GLSL (SPIR-V)
@@ -39,7 +40,7 @@
 
 ---
 
-## 📈 Roadmap & Progress
+## Roadmap & Progress
 - [x] OgreNext 2.3+ 코어 아키텍처 분석 및 환경 자동화
 - [x] CPU-GPU 데이터 전송 병목 제거를 위한 시스템 설계
 - [x] Disney BSDF 기반 PBR 및 프레임 누적 노이즈 제거 구현
